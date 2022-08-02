@@ -1,7 +1,17 @@
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
 # Love Maths
-Fully responsive JavaScript maths game. Goal of this excercise is to practice JavaScript by implementing a simple game where the goal is to get the correct solution to a maths question. Game will keep track of right / wrong answers during play.
+Fully responsive JavaScript maths game. Object of this excercise is to practice JavaScript by implementing a simple game where the goal is to get the correct solution to a maths question. Game will keep track of right / wrong answers during play.
+
+# Technologies
+* JavaScript
+* HTML5
+* CSS
+
+# Features
+* Responsive design
+* Win / Loss counter
+* Math functions
 
 # Screenshot
 
